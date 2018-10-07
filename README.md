@@ -1,2 +1,2 @@
 # PythonTutorials
-This will be a space for inclding small code examples for learning Python
+This will be a space for including small code examples for learning Python
